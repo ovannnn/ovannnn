@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Olivia.
-- 👀 I’m interested in Cybersecurity, Machine Learning, Computer Forensics, Pentesting, or anything cyber!
+- 👀 I’m interested in Cybersecurity, Machine Learning, Computer Forensics, Pentesting, and anything cyber!
 - 🌱 I’m currently refreshing my Python scripting skills, Linux CLI commands, and Pentesting practices.
 - 👩‍💻 Codecademy profile: https://www.codecademy.com/profiles/ovann
 - 🕵️‍♀️ TryHackMe profile: https://tryhackme.com/p/ovann
